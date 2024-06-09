@@ -1,0 +1,26 @@
+.carousel-item {
+
+  align-items: center;
+  justify-content: center;
+  height: 600px; /* Adjust the height as needed */
+}
+.carousel-item img {
+    display:flex;
+    object-fit: contain;
+    margin: auto;
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+
+  .carousel-caption,
+.carousel-control-prev i,
+.carousel-control-next i {
+  color: #484848; /* Change the color as needed */
+  
+}
+
+  
