@@ -19,8 +19,21 @@
   .carousel-caption,
 .carousel-control-prev i,
 .carousel-control-next i {
-  color: #484848; /* Change the color as needed */
+  color: #5e5e5e; /* Change the color as needed */
   
 }
+a{
+  text-decoration: none;
+ text-decoration-color: none;
+}
+body{
+  margin: 5px;
+}
+.img-fluid {
+  width: 100%;
+  height: 80%;
+}
 
-  
+.text-uppercase {
+  margin-top: 10px;
+}
